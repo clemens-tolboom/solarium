@@ -23,11 +23,9 @@ The preferred way to install Solarium is by using Composer. Solarium is availabl
 
 Example:
 ```
- composer require solarium/solarium
+composer require solarium/solarium
 ```
 
-<<<<<<< HEAD
-=======
 ## Run the examples
 
 This needs a git checkout using composer.
@@ -75,7 +73,6 @@ php -S localhost:8888
 
 Open http://localhost:8888/vendor/solarium/solarium/examples/
 
->>>>>>> fb41692c... Remove tabs from repositories section
 ## More information
 
 * Docs
